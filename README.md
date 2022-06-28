@@ -1,5 +1,4 @@
-- 🔭 I’m currently working with React Native.
-- 🌱 I’m currently learning Next.js.
+- 🔭 I’m currently working with Next.js, React and React Native.
 
 <div>
   <a href="https://github.com/gustavobgt">
