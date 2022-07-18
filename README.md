@@ -1,4 +1,8 @@
+- A lifelong learner. Love to travel, listen to music, and hang out with friends. I believe in simplicity and peace.
 - 🔭 I’m currently working with Next.js, React and React Native.
+- 💬 Ask me about Database, Programing Logic, Business Aspects
+- 📫 How to reach me gustavo_bgt97@hotmail.com
+- ⚡ Fun fact I like Sports like Soccer and Tenis
 
 <div>
   <a href="https://github.com/gustavobgt">
